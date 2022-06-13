@@ -1,0 +1,18 @@
+.newlist
+{
+    background-color: white;
+    height:60px;
+    overflow:visible;
+}
+.fa-check-square
+{
+   font-size:30px;
+   color: green;
+   margin:0px 0px 30px 950px;
+}
+
+.fa-window-close
+{
+   font-size:30px;
+   color: red;
+}
